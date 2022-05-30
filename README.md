@@ -24,6 +24,14 @@ El output es un dataframe en formato csv, con la media y desvío para cada banda
 Se elaboró un script en Python utilizando la API de Google Earth Engine (GEE).  Desde GEE, se leen y extraen muestras de escenas Sentinel-2 (ESA) y Landsat 5-TM y 8-OLI (NASA).
 El script se subirá a este repositorio.
 
+### Inputs
+1. Archivo vectorial con **polígonos de muestra** de cada clase de humedal, en formato _shapefile_.
+2. **Escenas ópticas** del catálogo de GEE.
+
+### Ouput
+El output es un dataframe en formato csv, con la media y desvío para cada banda de cada escena. Los campos del dataframe incluyen información de la escenae información del polígono del shapefile. 
+
+
 ## Licencia
 [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
