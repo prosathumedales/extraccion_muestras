@@ -4,7 +4,9 @@ El repositorio incluye scripts para la extracción de datos satelitales SAR y ó
 
 ## Datos de microondas activas SAR
 
-El script se elaboró en lenguaje Python (autora @marielaraj) y actualmente se encuentra disponible en [este repositorio](https://github.com/prosathumedales/extraccion_muestras/blob/main/SAR_dataframe) y en [Google Colab](https://colab.research.google.com/drive/1vzbcz5d23IM8H3CrfQIX7BBFmBdEQP0S).
+El script se elaboró en lenguaje Python y actualmente se encuentra disponible en [este repositorio](https://github.com/prosathumedales/extraccion_muestras/blob/main/SAR_dataframe) y en [Google Colab](https://colab.research.google.com/drive/1vzbcz5d23IM8H3CrfQIX7BBFmBdEQP0S).
+
+**Autora:** Mariela Rajngewerc - [@marielaraj](https://github.com/nmorandeira).
 
 ### Inputs
 1. Archivo vectorial con **polígonos de muestra** de cada clase de humedal, en formato _shapefile_.
@@ -22,3 +24,7 @@ El output es un dataframe en formato csv, con la media y desvío para cada banda
 Se elaboró un script en Python utilizando la API de Google Earth Engine (GEE).  Desde GEE, se leen y extraen muestras de escenas Sentinel-2 (ESA) y Landsat 5-TM y 8-OLI (NASA).
 El script se subirá a este repositorio.
 
+## Licencia
+[CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
+
+El proyecto está en desarrollo, consultar cómo citar. Contacto: Natalia Morandeira (nmorandeira@unsam.edu.ar, [@nmorandeira](https://github.com/nmorandeira))
