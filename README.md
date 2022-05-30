@@ -6,7 +6,7 @@ El repositorio incluye scripts para la extracción de datos satelitales SAR y ó
 
 El script se elaboró en lenguaje Python y actualmente se encuentra disponible en [este repositorio](https://github.com/prosathumedales/extraccion_muestras/blob/main/SAR_dataframe) y en [Google Colab](https://colab.research.google.com/drive/1vzbcz5d23IM8H3CrfQIX7BBFmBdEQP0S).
 
-**Autora:** Mariela Rajngewerc - [@marielaraj](https://github.com/nmorandeira).
+**Autora:** Mariela Rajngewerc - [@marielaraj](https://github.com/marielaraj)
 
 ### Inputs
 1. Archivo vectorial con **polígonos de muestra** de cada clase de humedal, en formato _shapefile_.
