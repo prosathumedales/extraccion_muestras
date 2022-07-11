@@ -4,7 +4,7 @@ El repositorio incluye scripts para la extracción de datos satelitales SAR y ó
 
 ## Datos de microondas activas SAR
 
-El script se elaboró en lenguaje Python y actualmente se encuentra disponible en [este repositorio](https://github.com/prosathumedales/extraccion_muestras/blob/main/creaci%C3%B3n_de_DataFrames.ipynb) y en [Google Colab](https://colab.research.google.com/drive/1vzbcz5d23IM8H3CrfQIX7BBFmBdEQP0S).
+El script se elaboró en lenguaje Python y actualmente se encuentra disponible en [este repositorio](https://github.com/prosathumedales/extraccion_muestras/blob/main/SAR_dataframes_desde_ROIs.ipynb).
 
 **Autora:** Mariela Rajngewerc - [@marielaraj](https://github.com/marielaraj)
 
