@@ -21,7 +21,7 @@ El output es un dataframe en formato csv, con la media y desvío para cada banda
 
 ## Datos ópticos
 
-Se elaboró un script en Python utilizando la API de Google Earth Engine (GEE).  Desde GEE, se leen y extraen muestras de escenas Sentinel-2 (ESA) y Landsat 5-TM y 8-OLI (NASA).
+Se elaboró un script en Python utilizando la API de Google Earth Engine (GEE).  Desde GEE, se leen y extraen muestras de escenas Sentinel-2 (ESA) y próximamente Landsat 5-TM y 8-OLI (NASA).
 El script se subirá a este repositorio.
 
 **Autor:** Esteban Roitberg - [@loibel](https://github.com/Loibel)
